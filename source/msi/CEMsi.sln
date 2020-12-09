@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CEMsi", "CEMsi\CEMsi.vdproj", "{B85A9333-FEB1-41F6-B77E-A45E197817F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85A9333-FEB1-41F6-B77E-A45E197817F7}.Debug|Default.ActiveCfg = Debug
+		{B85A9333-FEB1-41F6-B77E-A45E197817F7}.Debug|Default.Build.0 = Debug
+		{B85A9333-FEB1-41F6-B77E-A45E197817F7}.Release|Default.ActiveCfg = Release
+		{B85A9333-FEB1-41F6-B77E-A45E197817F7}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25CE985C-6E30-4C6C-A905-CA1E5AB2F4E6}
+	EndGlobalSection
+EndGlobal

